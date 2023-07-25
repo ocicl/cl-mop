@@ -1,0 +1,10 @@
+* cl-mop
+
+Some basic, portable CLOS-related tools.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Inaimathi/cl-mop.git   |
+| commit  | d9b3ce1  |
+| systems | cl-mop |
+|---------+-------------------------------------------|
+
